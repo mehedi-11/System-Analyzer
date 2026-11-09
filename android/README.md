@@ -13,3 +13,4 @@ This directory is scheduled for **Phase 7** implementation.
   - Battery health & temperature
   - Shared rule-based health scoring engine
   - PDF diagnostic export
+

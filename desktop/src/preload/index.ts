@@ -15,3 +15,4 @@ const api: DeviceAnalyzerApi = {
 
 // Safely expose strictly typed API under context isolation
 contextBridge.exposeInMainWorld('deviceAnalyzer', api);
+

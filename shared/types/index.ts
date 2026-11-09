@@ -69,3 +69,4 @@ export interface DeviceAnalyzerApi {
   maximizeWindow: () => Promise<void>;
   closeWindow: () => Promise<void>;
 }
+

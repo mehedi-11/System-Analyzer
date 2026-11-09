@@ -125,3 +125,4 @@ export const SystemInfo: React.FC<SystemInfoProps> = ({ osData, onRefresh, isRef
     </div>
   );
 };
+

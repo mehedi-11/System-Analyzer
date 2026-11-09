@@ -107,3 +107,4 @@ export class OperatingSystemCollector implements Collector<OperatingSystemInfo> 
     });
   }
 }
+

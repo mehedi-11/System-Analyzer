@@ -59,3 +59,4 @@ export const HardwareAnalysis: React.FC = () => {
     </div>
   );
 };
+

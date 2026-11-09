@@ -129,3 +129,4 @@ export const Settings: React.FC<SettingsProps> = ({ dbStatus, adminStatus }) => 
     </div>
   );
 };
+

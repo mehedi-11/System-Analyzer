@@ -105,3 +105,4 @@ export const Sidebar: React.FC<SidebarProps> = ({ currentPage, onNavigate, appVe
     </aside>
   );
 };
+

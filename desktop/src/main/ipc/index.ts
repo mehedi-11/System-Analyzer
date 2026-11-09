@@ -74,3 +74,4 @@ export function registerIpcHandlers(): void {
     if (win) win.close();
   });
 }
+

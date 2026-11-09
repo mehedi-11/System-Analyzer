@@ -59,3 +59,4 @@ export const History: React.FC = () => {
     </div>
   );
 };
+

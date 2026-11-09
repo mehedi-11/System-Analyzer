@@ -99,3 +99,4 @@ Compiles the React frontend with Vite and bundles main/preload processes with es
 ```bash
 npm run build
 ```
+

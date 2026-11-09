@@ -47,3 +47,4 @@ export const BatteryAnalysis: React.FC = () => {
     </div>
   );
 };
+

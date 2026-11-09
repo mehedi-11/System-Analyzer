@@ -82,3 +82,4 @@ export function runMigrations(db: Database.Database, customMigrations?: Migratio
 
   return appliedCount;
 }
+

@@ -137,3 +137,4 @@ INSERT OR IGNORE INTO settings (key, value) VALUES
   ('perf_sample_interval_ms', '2000'),
   ('perf_retention_days', '14'),
   ('auto_scan_enabled', '0');
+
