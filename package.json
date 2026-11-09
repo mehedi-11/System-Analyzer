@@ -1,0 +1,26 @@
+{
+  "name": "device-analyzer-monorepo",
+  "version": "1.0.0",
+  "description": "Device Analyzer - PC & Mobile diagnostics, health scoring, and reporting system",
+  "private": true,
+  "workspaces": [
+    "desktop",
+    "shared"
+  ],
+  "scripts": {
+    "dev": "npm --workspace=desktop run dev",
+    "build": "npm --workspace=desktop run build",
+    "start": "npm --workspace=desktop run start",
+    "test": "npm --workspace=desktop run test"
+  },
+  "keywords": [
+    "device-analyzer",
+    "diagnostics",
+    "electron",
+    "react",
+    "windows",
+    "wmi"
+  ],
+  "author": "",
+  "license": "MIT"
+}
